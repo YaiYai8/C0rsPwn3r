@@ -25,10 +25,10 @@ This tool automates:
 ##  Screenshots
 
 ###  Normal Scan
-![CORS Scan](images/screenshot1.png)
+![CORS Scan](images/screenshot.png)
 
 ###  Generated PoC HTML
-![Generated PoC](images/poc.png)
+![Generated PoC](images/poc1.png)
 
 ---
 
